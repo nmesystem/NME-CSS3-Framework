@@ -1,2 +1,2 @@
-# NME-CSS3-framework
-サイトに埋め込むフレームワーク「NME CSS3」です。
+# NME CSS3Plugin (Framework)
+NME CSS3Pluginは、StyleSheetで開発された、フレームワークです。
