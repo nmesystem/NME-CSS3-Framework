@@ -31,3 +31,14 @@ Webに必要な最低限のものはこのプラグイン(フレームワーク)
 
 協力:RIS(Ryoukin Infomation Station)
 
+
+# 動作環境
+OS:Windows 7 / 8 / 8.1 / 10
+
+
+ブラウザ:Firefox / Google Chrome /Safari /Opera /(IE11以降)
+
+
+※IEでは少し対応していないスタイルがあります。
+
+※ブラウザ·端末によって色の表示が少し異なる場合が有ります。
