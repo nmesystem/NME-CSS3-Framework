@@ -20,7 +20,7 @@ Webに必要な最低限のものはこのプラグイン(フレームワーク)
 ちょっとしたWebを作りたい方にとても向いています。
 
 
-開発スタッフ
+# 開発スタッフ
 
 
 主任・監修:上郡乗輔(Kamigori Norisuke)
@@ -32,11 +32,45 @@ Webに必要な最低限のものはこのプラグイン(フレームワーク)
 協力:RIS(Ryoukin Infomation Station)
 
 
+# プラグインについて
+
+プラグイン名称：NME CSS3Plagin Ver.0.1.5
+
+
+バージョン：0.1.5
+
+
+プラグインファイル名称：css3plagin.css
+
+
+開発日:2016.06.29（初版開発日：2016.2.30)
+
+
+公開日：2016.07.26（初版公開日：2016.3.26)
+
+
+連絡先:info.norisuke@gmail.com
+
+
+コピーライト:© Network Movie Entertaiment.
+
+
 # 動作環境
-OS:Windows 7 / 8 / 8.1 / 10
 
 
-ブラウザ:Firefox / Google Chrome /Safari /Opera /(IE11以降)
+OS:Microsoft Windows7/8/8.1/10 
+
+
+Apple Mac
+          
+          
+ Ubuntu12.05以上
+          
+          
+ブラウザ：Firefox/GoogleChome/Opera/Safari
+
+
+一部IEに対応しています。
 
 
 ※IEでは少し対応していないスタイルがあります。
